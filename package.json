@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "connect-history-api-fallback": "^1.1.0",
-    "opt-merger": "^1.1.0"
+    "opt-merger": "https://github.com/shakyShane/opt-merger/tarball/dependabot/npm_and_yarn/lodash-4.17.19"
   }
 }
